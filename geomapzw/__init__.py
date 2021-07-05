@@ -2,6 +2,6 @@
 
 __author__ = """Farai Maxwell Marumbwa"""
 __email__ = 'faraimax@gmail.com'
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 from .geomapzw import *
