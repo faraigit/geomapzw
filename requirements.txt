@@ -1,4 +1,9 @@
-folium
+earthengine-api
+folium 
+geopandas
+ipyfilechooser
 ipyleaflet
-json
-shapefile
+matplotlib
+pyshp
+whitebox>=1.4.1
+whiteboxgui
