@@ -1,4 +1,4 @@
  
 # common module
 
-::: geodemo.common
+::: geomapzw.common
