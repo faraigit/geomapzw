@@ -1,3 +1,3 @@
 # utils module
 
-::: geodemo.utils
+::: geomapzw.utils
