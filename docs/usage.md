@@ -1,7 +1,7 @@
 # Usage
 
-To use geomapzw in a project:
+To use geodemo in a project:
 
 ```
-import geomapzw
+import geodemo
 ```

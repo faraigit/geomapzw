@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at <https://github.com/faraigit/geomapzw/issues>.
+Report bugs at <https://github.com/giswqs/geodemo/issues>.
 
 If you are reporting a bug, please include:
 
@@ -29,14 +29,14 @@ Look through the GitHub issues for features. Anything tagged with
 
 ### Write Documentation
 
-geomapzw could always use more documentation,
-whether as part of the official geomapzw docs,
+geodemo could always use more documentation,
+whether as part of the official geodemo docs,
 in docstrings, or even on the web in blog posts, articles, and such.
 
 ### Submit Feedback
 
 The best way to send feedback is to file an issue at
-<https://github.com/faraigit/geomapzw/issues>.
+<https://github.com/giswqs/geodemo/issues>.
 
 If you are proposing a feature:
 
@@ -46,14 +46,14 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up geomapzw for local development.
+Ready to contribute? Here's how to set up geodemo for local development.
 
-1.  Fork the geomapzw repo on GitHub.
+1.  Fork the geodemo repo on GitHub.
 
 2.  Clone your fork locally:
 
     ```shell
-    $ git clone git@github.com:your_name_here/geomapzw.git
+    $ git clone git@github.com:your_name_here/geodemo.git
     ```
 
 3.  Install your local copy into a virtualenv. Assuming you have
@@ -61,8 +61,8 @@ Ready to contribute? Here's how to set up geomapzw for local development.
     local development:
 
     ```shell
-    $ mkvirtualenv geomapzw
-    $ cd geomapzw/
+    $ mkvirtualenv geodemo
+    $ cd geodemo/
     $ python setup.py develop
     ```
 
@@ -78,7 +78,7 @@ Ready to contribute? Here's how to set up geomapzw for local development.
     and the tests, including testing other Python versions with tox:
 
     ```shell
-    $ flake8 geomapzw tests
+    $ flake8 geodemo tests
     $ python setup.py test or pytest
     $ tox
     ```
@@ -104,5 +104,5 @@ Before you submit a pull request, check that it meets these guidelines:
     Put your new functionality into a function with a docstring, and add
     the feature to the list in README.rst.
 3.  The pull request should work for Python 3.5, 3.6, 3.7 and 3.8, and
-    for PyPy. Check <https://github.com/faraigit/geomapzw/pull_requests> and make sure that the tests pass for all
+    for PyPy. Check <https://github.com/giswqs/geodemo/pull_requests> and make sure that the tests pass for all
     supported Python versions.

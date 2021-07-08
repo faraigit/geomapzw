@@ -1,14 +1,14 @@
-# Welcome to geomapzw
+# Welcome to geodemo
 
 
-[![image](https://img.shields.io/pypi/v/geomapzw.svg)](https://pypi.python.org/pypi/geomapzw)
+[![image](https://img.shields.io/pypi/v/geodemo.svg)](https://pypi.python.org/pypi/geodemo)
 
 
-**This package is for generating web maps**
+**A Python package for interactive mapping**
 
 
 -   Free software: MIT license
--   Documentation: <https://faraigit.github.io/geomapzw>
+-   Documentation: <https://geodemo.gishub.org>
     
 
 ## Features

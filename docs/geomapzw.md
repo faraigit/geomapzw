@@ -1,4 +1,4 @@
  
-# geomapzw module
+# geodemo module
 
-::: geomapzw.geomapzw
+::: geodemo.geodemo

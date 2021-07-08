@@ -46,7 +46,22 @@ nav:
     - Report Issues: https://github.com/faraigit/geomapzw/issues
     - API Reference:
           - geomapzw module: geomapzw.md
-    - notebooks:
-          - notebooks\folium_introd.ipynb
-          - notebooks\ipyleaflet_intro.ipynb
+          - common module: common.md
+          - utils module: utils.md
+    - Notebooks:
+          - notebooks/ipyleaflet_intro.ipynb 
+          - notebooks/folium_intro.ipynb
+          - notebooks/geodemo_intro.ipynb
+          - notebooks/add_shapefile.ipynb
+          - notebooks/test_utils.ipynb
+          - notebooks/earthengine_intro.ipynb
+          - notebooks/ipywidgets.ipynb
+          - notebooks/ipywidgets_box.ipynb
+          - notebooks/ipywidgets_events.ipynb
+          - notebooks/toolbar.ipynb
+          - notebooks/ipyfilechooser.ipynb
+          - notebooks/whitebox.ipynb
+          - notebooks/geopandas.ipynb
+          - notebooks/csv_to_points.ipynb
+          
          
